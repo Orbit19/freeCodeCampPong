@@ -1,7 +1,6 @@
-# pong
+# pong game created from Free Code Camp Tutorial
 
 import turtle
-import os
 
 wn = turtle.Screen()
 wn.title("Pong")
